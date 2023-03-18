@@ -1,0 +1,24 @@
+#these lines don't count
+console titlescreen
+Invoke, SaveData.TryDelete, 0
+unsafe
+
+#these do
+Read, Prologue
+Read, Prologue
+Read, Prologue
+
+Repeat, 31
+  17,R,U,K,C,G
+  13,R,J,X,G
+EndRepeat
+
+Repeat, 5
+  28,U,C
+  98,R,U,J,G
+EndRepeat
+
+Repeat, 70
+  42,L,U,K,G
+   8,R,J,X,G
+EndRepeat
