@@ -18,7 +18,69 @@ Repeat, 5
   98,R,U,J,G
 EndRepeat
 
-Repeat, 70
-  42,L,U,K,G
-   8,R,J,X,G
+Read, 1A-6-Enter
+
+Repeat, 17
+  42,U,G
+  23,U,J,X,MR
 EndRepeat
+
+Repeat, 6
+ 161,R,U,K,X,G
+  24,R,J,G
+EndRepeat
+
+Read, 1A-6-Enter
+
+Repeat, 16
+   7,U,X,MR
+  16,R,U,K
+EndRepeat
+
+Repeat, 7
+   7,U,X,MR
+  16,R,U,K
+EndRepeat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
